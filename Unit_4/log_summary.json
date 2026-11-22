@@ -1,0 +1,14 @@
+{
+    "total_lines": 4,
+    "level_counts": {
+        "INFO": 2,
+        "WARNING": 1,
+        "ERROR": 1
+    },
+    "messages": [
+        "INFO: Application started",
+        "WARNING: Low memory",
+        "ERROR: File missing",
+        "INFO: User logged in"
+    ]
+}
